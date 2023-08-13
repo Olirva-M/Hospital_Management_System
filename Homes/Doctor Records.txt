@@ -1,0 +1,4 @@
+1000	Olirva	19	Female	979082821897	olirva@gmail.com	Opthamolagist	MBBS	5	true
+1001	Harini Mohan	20	Female	7395942200	harmo@gmail.com	Gynacolagist	MBBS	5	true
+1002	Apurva	19	Female	9790821897	apu@gmail.com	Pediatric	MBBS	1	true
+1003	Olirva	20	Female	877777	hh@gmail.com	Optho	MBBS	5	true
